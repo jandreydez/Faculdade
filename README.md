@@ -1,2 +1,2 @@
-# Faculdade
-Pasta Destinada a Conteudo e Trabalhos da faculdade
+#Repositorio de Material da Facudade
+Feitos por : Jandrey Oliveira
